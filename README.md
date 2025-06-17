@@ -124,7 +124,7 @@ Me chamo João Gabriel Rodrigues, tenho 17 anos e sou natural de Estância. Esto
 <br/>
 <br/>
 
-### 📊 Estatísticas
+
 
 <p>
   <img 
