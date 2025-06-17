@@ -1,7 +1,4 @@
-# 👩🏻‍💻 Gabriel Santos
 
-
-Me chamo João Gabriel Rodrigues, tenho 17 anos e sou natural de Estância. Estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia. me siga também Instagram, com o perfil chamado "[gabrielrdst](https://www.instagram.com/gabrielrdsnt/)".
 
 
 ---
