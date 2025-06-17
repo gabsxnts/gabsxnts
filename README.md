@@ -126,16 +126,6 @@ Me chamo João Gabriel Rodrigues, tenho 17 anos e sou natural de Estância. Esto
 
 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-   
-  />
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabsxnts/gabsxnts/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabsxnts/gabsxnts/output/github-contribution-grid-snake-dark.svg">
